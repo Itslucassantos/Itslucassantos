@@ -1,7 +1,7 @@
 # I'm Lucas Santos 👋
 
 ## 👨‍💻 About Me  
-I'm a **Junior Full Stack Developer** passionate about building **applications** with **Java, Spring Boot, TypeScript, Node.js, React and PostgreSQL**.  
+I'm a **Junior Full-Stack Developer** passionate about building **applications** with **Java, Spring Boot, TypeScript, Node.js, React and PostgreSQL**.  
 I enjoy working across the stack, tackling complex challenges, and building clean, efficient solutions.  
 
 🔧 Currently working at **Topaz**  
