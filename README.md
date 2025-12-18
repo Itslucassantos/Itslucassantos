@@ -1,7 +1,7 @@
 # I'm Lucas Santos 👋
 
 ## 👨‍💻 About Me  
-I'm a **Junior Full-Stack Developer** passionate about building **applications** with **Java, Spring Boot, TypeScript, Node.js, React and PostgreSQL**.  
+I'm a **Junior Full-Stack Developer** passionate about building **applications** with **Java, Spring Boot, TypeScript, Node.js, NestJS, React, Next.js and PostgreSQL**.  
 I enjoy working across the stack, tackling complex challenges, and building clean, efficient solutions.  
 
 🔧 Currently working at **Topaz**  
@@ -21,6 +21,7 @@ I enjoy working across the stack, tackling complex challenges, and building clea
   <img title="Node.js" alt="Node.js" width="50px" height="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" />
   <img title="Express.js" alt="Express.js" width="50px" height="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" />
   <img title="NestJS" alt="NestJS" width="50px" height="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nest_js.png" />
+  <img title="Next.js" alt="Next.js" width="50px" height="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/next_js.png" />
 </p>
 
 ### **Databases & Cloud**  
