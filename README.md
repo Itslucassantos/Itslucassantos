@@ -37,6 +37,7 @@ I enjoy working across the stack, tackling complex challenges, and building clea
   <img title="GitHub" alt="GitHub" width="50px" height="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" />
   <img title="JUnit" alt="JUnit" width="50px" height="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/junit.png" />
   <img title="mocikto" alt="mocikto" width="50px" height="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mocikto.png" />
+  <img title="Jest" alt="Jest" width="50px" height="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jest.png" />
 </p>
 
 
