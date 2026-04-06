@@ -1,7 +1,7 @@
 # I'm Lucas Santos 👋
 
 ## 👨‍💻 About Me  
-I'm a **Full-Stack Developer** passionate about building **applications** with **Java, Spring Boot, TypeScript, Node.js, NestJS, React, Next.js and PostgreSQL**.  
+I'm a **Full-Stack Developer** passionate about building **applications** with **Java, Spring Boot, JavaScript, TypeScript, Express, Node.js, NestJS, React, Next.js and PostgreSQL**.  
 I enjoy working across the stack, tackling complex challenges, and building clean, efficient solutions.  
 
 🔧 Currently working at **Topaz**  
