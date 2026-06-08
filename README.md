@@ -1,7 +1,7 @@
 # I'm Lucas Santos 👋
 
 ## 👨‍💻 About Me  
-I'm a **Full-Stack Developer** passionate about building **applications** with **Java, Spring Boot, JavaScript, TypeScript, Express, Node.js, NestJS, React, Next.js and PostgreSQL**.  
+I'm a **Full-Stack Developer** passionate about building **applications** with **Java, Spring Boot, JavaScript, TypeScript, Express, Node.js, NestJS, React, React Native, Next.js and PostgreSQL**.  
 I enjoy working across the stack, tackling complex challenges, and building clean, efficient solutions.  
 
 🔧 Currently working at **Topaz**  
@@ -27,6 +27,7 @@ I enjoy working across the stack, tackling complex challenges, and building clea
 ### **Databases & Cloud**  
 <p>
   <img title="PostgreSQL" alt="PostgreSQL" width="50px" height="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" />
+  <img title="MongoDB" alt="MongoDB" width="50px" height="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" />
   <img title="Docker" alt="Docker" width="50px" height="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" />
 </p>
 
