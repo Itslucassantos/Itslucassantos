@@ -4,7 +4,7 @@
 I'm a **Full-Stack Developer** passionate about building **applications** with **Java, Spring Boot, JavaScript, TypeScript, Express, Node.js, NestJS, React, React Native, Next.js and PostgreSQL**.  
 I enjoy working across the stack, tackling complex challenges, and building clean, efficient solutions.  
 
-🔧 Currently working at **Topaz**  
+🔧 Currently working at **MOBY**  
 🎓 **Bachelor’s Degree in Computer Science** — Unimetrocamp Wyden - Campinas, SP (2022 - 2026)
 
 ---
