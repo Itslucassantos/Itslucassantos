@@ -6,8 +6,6 @@ I work across the whole stack — from technical specification and data modeling
 
 My current focus is *microservices architecture*: distributed services communicating asynchronously through a message broker, real-time integrations with external systems, queue processing and operational interfaces with maps and geospatial data.
 
-I follow *Spec-Driven Development* (GitHub Spec Kit) — specification, data model and API contracts are defined and approved before writing any code.
-
 🔧 Currently working at *MOBY*
 🎓 *Bachelor's Degree in Computer Science* — Unimetrocamp Wyden - Campinas, SP (2022 - 2026)
 
@@ -39,7 +37,6 @@ I follow *Spec-Driven Development* (GitHub Spec Kit) — specification, data mod
   <img title="Material UI" alt="Material UI" width="50px" height="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/material_ui.png" />
   <img title="Tailwind CSS" alt="Tailwind CSS" width="50px" height="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/tailwind_css.png" />
   <img title="Redux" alt="Redux" width="50px" height="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/redux.png" />
-  <img title="Leaflet" alt="Leaflet" width="50px" height="50px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/leaflet.png" />
 </p>
 
 > Also working with: *React Native* · *TanStack Router* · *Zustand* · *React Hook Form* · *Zod* · *i18next* · Geofencing & interactive maps
