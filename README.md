@@ -76,5 +76,5 @@ My current focus is *microservices architecture*: distributed services communica
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/lucas-santos-729047236/)
+- [LinkedIn](https://www.linkedin.com/in/itslucas-santos/)
 - 📧 [Email](mailto:itslucas.ferreira.santos@gmail.com)
